@@ -1,0 +1,3 @@
+LMS_HOSTNAME=courses.veriseekeducation.com
+CMS_HOSTNAME=studio.courses.veriseekeducation.com
+MFE_HOSTNAME=apps.courses.veriseekeducation.com
